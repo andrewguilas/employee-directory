@@ -17,10 +17,10 @@ ___
 ## TODO
 
 ### Phase 1: Planning & Setup
-- [ ] Write a brief design note (goal, core features, example usage) — 30–60 minutes
-- [ ] Create your GitHub repo, initialize with README and .gitignore
-- [ ] Add your mock employee data CSV/JSON into the repo or a data/ folder
-- [ ] Setup a basic Python project structure (myapi/, tests/, etc.)
+- [x] Write a brief design note (goal, core features, todo)
+- [x] Create your GitHub repo, initialize with README and .gitignore
+- [x] Add your mock employee data CSV/JSON into the repo or a data/ folder
+- [x] Setup a basic Python project structure (myapi/, tests/, etc.)
 
 ### Phase 2: Minimal HTTP Server
 - [ ] Build a very simple HTTP server using Python’s socket or http.server modules
